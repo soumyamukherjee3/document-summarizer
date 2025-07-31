@@ -5,4 +5,4 @@ wordcloud
 matplotlib
 scikit-learn
 nltk
-en_core_web_sm
+
